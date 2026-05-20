@@ -2,8 +2,15 @@
   "id": "NVGConfig",
   "displayName": "NVG Config",
   "description": "Improved NVG for Nuclear Option. Provides both built in and customizable NvG filters.",
-  "tags": ["QoL", "mod", "visual", "client side"],
-  "authors": ["Domiyaaa"],
+  "tags": [
+    "QoL",
+    "mod",
+    "visual",
+    "client side"
+  ],
+  "authors": [
+    "Domiyaaa"
+  ],
   "urls": [
     {
       "name": "info",
@@ -22,5 +29,6 @@
       "version": "1.2.2",
       "category": "Release"
     }
-  ]
+  ],
+  "downloadCount": 86
 }
