@@ -31,7 +31,7 @@
       "dependencies": [
         {
           "id": "aryx.f16m",
-          "version": "1.1.2"
+          "version": "1.1.3"
         },
         {
           "id": "com.nikkorap.blueprinter",
@@ -40,5 +40,5 @@
       ]
     }
   ],
-  "downloadCount": 888
+  "downloadCount": 912
 }
