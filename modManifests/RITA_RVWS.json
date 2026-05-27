@@ -20,23 +20,42 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "RITA_RVWS_2.0.2.zip",
+      "version": "2.0.2",
+      "category": "release",
       "type": "plugin",
-			"fileName": "RITA_RVWS_2.0.1.zip",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/muhimin01/no-rita-rvws/releases/download/2.0.2/RITA_RVWS_2.0.2.zip",
+      "hash": "sha256:fcf20c5e25dcac931545de9191c7ac8c0d887a1b5251bfd970bfbfca78837cb6",
+      "incompatibilities": [
+        {
+          "id": "com.JUSTJ7780.globalsoundreplacerno",
+          "version": "5.2.0"
+        },
+        {
+          "id": "WSOYappinator",
+          "version": "2.1.1"
+        }
+      ]
+    },
+    {
+      "type": "plugin",
+      "fileName": "RITA_RVWS_2.0.1.zip",
       "downloadUrl": "https://github.com/muhimin01/no-rita-rvws/releases/download/2.0.1/RITA_RVWS_2.0.1.zip",
       "gameVersion": "0.33",
       "version": "2.0.1",
       "category": "release",
       "incompatibilities": [
-				{
-					"id": "com.JUSTJ7780.globalsoundreplacerno",
-					"version": "5.2.0"
-				},
-				{
-					"id": "WSOYappinator",
-					"version": "2.1.1"
-				}
-			]
+        {
+          "id": "com.JUSTJ7780.globalsoundreplacerno",
+          "version": "5.2.0"
+        },
+        {
+          "id": "WSOYappinator",
+          "version": "2.1.1"
+        }
+      ]
     }
   ],
-  "downloadCount": 328
+  "downloadCount": 332
 }

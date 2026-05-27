@@ -2,11 +2,19 @@
   "id": "KnockPush",
   "displayName": "RAH-72 Pushout",
   "description": "Aryx RAH-72 compound coaxial helicopter — pusher-prop thrust, coaxial rotor blur, and a tuned flight model.",
-  "tags": ["mod", "Aircraft"],
-  "urls": [
-    { "name": "info", "url": "https://github.com/Rendresen/PushOut" }
+  "tags": [
+    "mod",
+    "Aircraft"
   ],
-  "authors": ["Rendresen"],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rendresen/PushOut"
+    }
+  ],
+  "authors": [
+    "Rendresen"
+  ],
   "githubOwner": "Rendresen",
   "githubRepoName": "PushOut",
   "autoUpdateArtifacts": "True",
@@ -20,5 +28,6 @@
       "downloadUrl": "https://github.com/Rendresen/PushOut/releases/download/v1.7.59/KnockPush-1.7.59.zip",
       "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
     }
-  ]
+  ],
+  "downloadCount": 149
 }
